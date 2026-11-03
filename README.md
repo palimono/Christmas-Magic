@@ -5,6 +5,7 @@
 A festive theme for CleanYourTV.
 
 ## Features
+
 - 4-column home screen
 - Christmas wallpaper collection
 - Automatic wallpaper rotation every 30 minutes
@@ -13,9 +14,7 @@ A festive theme for CleanYourTV.
 - Festive blue accent color
 
 ## Installation
-Copy the christmas_magic folder into the CleanYourTV 	hemes directory.
+
+Create a folder named `christmas_magic` inside your CleanYourTV `themes` directory, then copy the contents of this package into it.
 
 Enjoy the Christmas magic!
-
-
-
