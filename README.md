@@ -5,7 +5,7 @@
 A festive theme for CleanYourTV.
 
 ## Features
-- 6-column home screen
+- 4-column home screen
 - Christmas wallpaper collection
 - Automatic wallpaper rotation every 30 minutes
 - English wallpaper captions
@@ -16,4 +16,5 @@ A festive theme for CleanYourTV.
 Copy the christmas_magic folder into the CleanYourTV 	hemes directory.
 
 Enjoy the Christmas magic!
+
 
