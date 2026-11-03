@@ -1,4 +1,6 @@
-﻿# Christmas Magic 🎄
+﻿![Christmas Magic on TV](screenshots/Christmas-Magic-TV.png)
+
+# Christmas Magic 🎄
 
 A festive theme for CleanYourTV.
 
@@ -14,3 +16,4 @@ A festive theme for CleanYourTV.
 Copy the christmas_magic folder into the CleanYourTV 	hemes directory.
 
 Enjoy the Christmas magic!
+
